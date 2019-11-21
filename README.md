@@ -1,5 +1,7 @@
 # React + Redux list of TODOs
 
+[DEMO LINK](https://Sijey.github.io/react_redux-list-of-todos/)
+
 ## Task
 
 By requesting [https://jsonplaceholder.typicode.com/todos](https://jsonplaceholder.typicode.com/todos) and [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users), create and display a list of TODO items with an option of removing individual items.
@@ -69,4 +71,4 @@ You should be writing code in `src/` directory.
 
 ### Demo link
 
-Add link here: `[DEMO LINK](https://<your_account>.github.io/<repo_name>/)`
+Add link here: [DEMO LINK](https://Sijey.github.io/react_redux-list-of-todos/)

@@ -1,6 +1,6 @@
 # React + Redux list of TODOs
 
-[DEMO LINK](https://Sijey.github.io/react_redux-list-of-todos/)
+`[DEMO LINK](https://Sijey.github.io/react_redux-list-of-todos/)`
 
 ## Task
 
@@ -71,4 +71,4 @@ You should be writing code in `src/` directory.
 
 ### Demo link
 
-Add link here: [DEMO LINK](https://Sijey.github.io/react_redux-list-of-todos/)
+Add link here: `[DEMO LINK](https://Sijey.github.io/react_redux-list-of-todos/)`
